@@ -1,6 +1,6 @@
 # Recommendation-System
 This is the repo for the recommendation system project made for Bhuvan Portal for submission during hackathon organized on hack2skill.
-Team Name: Sirius Coders.
+Team Name: Sirius Coders. </br>
 Team members: Rushin Shah, Rushi Jhala, Dev Chauhan, Ruchita Rathod.
 
 We have made a **Recommendation System** for [Bhuvan Portal](https://bhuvan.nrsc.gov.in/home/index.php) to help people find a relevant dataset according to query and past history.
