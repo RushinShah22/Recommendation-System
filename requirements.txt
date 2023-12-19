@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scikit-learn
+pandas
+faker
+tensorflow
+tensorflow-datasets
+tensorflow-recommenders
