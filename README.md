@@ -34,11 +34,11 @@ Each the stages narrows down the recommended dataset by some magnitude in order 
 
 # Steps for Reproducing Data and train Model
 
-1.) Fork the Repo.
-2.) Setup up python Virtual Environment using `python -m venv {ENV_NAME}`
-2.) Install all the dependency according to requirements.txt file ----- `pip install -r requirements.txt`
-4.) Run data_creation.py to produce data
-5.) Run candidate_model.py to train candidate phase of the model.
+1. Fork the Repo.
+2. Setup up python Virtual Environment using `python -m venv {ENV_NAME}`
+3. Install all the dependency according to requirements.txt file ----- `pip install -r requirements.txt`
+4. Run data_creation.py to produce data
+5. Run candidate_model.py to train candidate phase of the model.
 
 #  ###THANK YOU!!!!
 
