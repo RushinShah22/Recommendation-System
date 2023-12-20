@@ -30,7 +30,7 @@ Each the stages narrows down the recommended dataset by some magnitude in order 
   
 ![Two Tower Model for Candidate selection phase](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Figure-02.gif)
 
-**_We have only implemented the training portion of the first phase and other two phase and still in progess_**
+**_We have only implemented the training portion of the first phase and other two phase are still in progess_**
 
 
 # Steps for Reproducing Data and train Model
