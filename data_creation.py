@@ -7,7 +7,7 @@ from faker import Faker
 
 fake = Faker()
 
-types_of_occupation = ['student', 'industrialist', 'proffesor', 'government_employee']
+types_of_occupation = ['student', 'industrialist', 'professor', 'government_employee']
 
 users_df = pd.DataFrame([
     {   
